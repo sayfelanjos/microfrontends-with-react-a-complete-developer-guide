@@ -1,3 +1,7 @@
 ecomm/products/node_modules
 ecomm/container/node_modules
 .idea
+./mfp/mfp/packages/auth/node_modules/
+./mfp/mfp/packages/container/node_modules/
+./mfp/mfp/packages/dashboard/node_modules/
+./mfp/mfp/packages/marketing/node_modules/
