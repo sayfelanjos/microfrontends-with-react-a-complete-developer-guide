@@ -1,8 +1,3 @@
-mfp/mfp/packages/auth/node_modules
-mfp/mfp/packages/container/node_modules
-mfp/mfp/packages/dashboard/node_modules
-mfp/mfp/packages/marketing/node_modules
-ecomm/cart/node_modules
-ecomm/products/node_modules
-ecomm/container/node_modules
+node_modules
 .idea
+dist
