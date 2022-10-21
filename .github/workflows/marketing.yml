@@ -11,11 +11,11 @@ on:
     branches:
       - main
     paths:
-      - '/packages/marketing/**'
+      - '/mpf/packages/marketing/**'
 
 defaults:
   run:
-    working-directory: /packages/marketing
+    working-directory: /mpf/packages/marketing
 
 jobs:
   build:

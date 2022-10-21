@@ -10,11 +10,11 @@ on:
     branches:
       - main
     paths:
-      - '/packages/container/**'
+      - '/mpf/packages/container/**'
 
 defaults:
   run:
-    working-directory: /packages/container
+    working-directory: /mpf/packages/container
 
 jobs:
   build:
